@@ -10,7 +10,7 @@
 @import UIKit;
 @import ObjectiveC.runtime;
 
-#import <Bolts/Bolts.h>
+#import "Bolts.h"
 
 static NSMutableArray *openedUrls;
 

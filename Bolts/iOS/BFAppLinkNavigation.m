@@ -10,7 +10,7 @@
 
 #import "BFAppLinkNavigation.h"
 
-#import <Bolts/Bolts.h>
+#import "Bolts.h"
 
 #import "BFMeasurementEvent_Internal.h"
 #import "BFAppLink_Internal.h"
